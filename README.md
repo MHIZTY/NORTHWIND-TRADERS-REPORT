@@ -54,6 +54,11 @@ The data underwent a thorough cleaning and organization process using Power Quer
 ### 4.Order by customer: This indicates that 'TORTU' is the most frequently ordered items
 ![](https://github.com/MHIZTY/NORTHWIND-TRADERS-REPORT/blob/main/ORDER%20BY%20CUSTOMER.PNG)
 
+# PRODUCT PERFORMANCE
+Below is the screenshot showing the product performance for 2015
+![](https://github.com/MHIZTY/NORTHWIND-TRADERS-REPORT/blob/main/PRODUCT%20PERFORMANCE.PNG)
+
+
 
 # BASED ON REPORT BIUILDINGS, HERE ARE THE ACTIONS AND RECOMMENDATIONS 
 When demand is already high in certain locations, promoting a business becomes more about sustaining and optimizing that demand rather than generating new interest. Here are some strategies to consider:
